@@ -37,7 +37,7 @@ This project analyses why India repeatedly faces shortages of essential resource
 |------|-------------|
 | [`research.md`](research.md) | **Main Research** — Case studies, macroeconomic analysis, strategic response, international comparisons, policy framework, implementation roadmap, budget, KPIs, model laws |
 | [`research1.md`](research1.md) | **Companion Document** — Executive brief, India's success stories, citizen recommendations, risk matrix, glossary, commodity data tables |
-| [`Resource_Scarcity_India_Research.docx`](Resource_Scarcity_India_Research.docx) | **MS Word version** — Both documents merged into a formatted Word file for download and printing |
+| **Shareable Formats** | 📄 [`Resource_Scarcity_India_Research.pdf`](Resource_Scarcity_India_Research.pdf) (Complete PDF)<br>📝 [`Resource_Scarcity_India_Research.docx`](Resource_Scarcity_India_Research.docx) (MS Word) |
 
 ---
 
@@ -58,6 +58,7 @@ This project proposes a comprehensive, socio-technical reform framework to secur
 | File | Description |
 |------|-------------|
 | [`India_Voter_Fraud_Reform_Research.md`](India_Voter_Fraud_Reform_Research.md) | **Complete Research Document** — The comprehensive policy proposal including all technical frameworks, international case studies, and budget estimations. |
+| **Shareable Formats** | 📄 [`India_Voter_Fraud_Reform_Research.pdf`](India_Voter_Fraud_Reform_Research.pdf) (Complete PDF)<br>📝 [`India_Voter_Fraud_Reform_Research.docx`](India_Voter_Fraud_Reform_Research.docx) (MS Word) |
 
 ---
 

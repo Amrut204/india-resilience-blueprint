@@ -2,9 +2,10 @@
 node_modules/
 package-lock.json
 
-# Build scripts (not needed in repo)
+# Build scripts & Temporary files (not needed in repo)
 convert_to_docx.js
-
+convert_voter_fraud_docx.js
+Resource_Scarcity_India_Research.md
 # OS files
 Thumbs.db
 .DS_Store
