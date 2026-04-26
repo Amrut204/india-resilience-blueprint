@@ -35,9 +35,9 @@ This project analyses why India repeatedly faces shortages of essential resource
 **Project Files:**
 | File | Description |
 |------|-------------|
-| [`Resource_Scarcity_India_Research_Main.md`](Resource_Scarcity_India_Research_Main.md) | **Main Research** — Case studies, macroeconomic analysis, strategic response, international comparisons, policy framework, implementation roadmap, budget, KPIs, model laws |
-| [`Resource_Scarcity_India_Research_Companion.md`](Resource_Scarcity_India_Research_Companion.md) | **Companion Document** — Executive brief, India's success stories, citizen recommendations, risk matrix, glossary, commodity data tables |
-| **Shareable Formats** | 📄 [`Resource_Scarcity_India_Research.pdf`](Resource_Scarcity_India_Research.pdf) (Complete PDF)<br>📝 [`Resource_Scarcity_India_Research.docx`](Resource_Scarcity_India_Research.docx) (MS Word) |
+| [`Scarcity_Main.md`](Scarcity_Main.md) | **Main Research** — Case studies, macroeconomic analysis, strategic response, international comparisons, policy framework, implementation roadmap, budget, KPIs, model laws |
+| [`Scarcity_Companion.md`](Scarcity_Companion.md) | **Companion Document** — Executive brief, India's success stories, citizen recommendations, risk matrix, glossary, commodity data tables |
+| **Shareable Formats** | 📄 [`Scarcity.pdf`](Scarcity.pdf) (Complete PDF)<br>📝 [`Scarcity.docx`](Scarcity.docx) (MS Word) |
 
 ---
 
@@ -57,8 +57,8 @@ This project proposes a comprehensive, socio-technical reform framework to secur
 **Project Files:**
 | File | Description |
 |------|-------------|
-| [`India_Voter_Fraud_Reform_Research.md`](India_Voter_Fraud_Reform_Research.md) | **Complete Research Document** — The comprehensive policy proposal including all technical frameworks, international case studies, and budget estimations. |
-| **Shareable Formats** | 📄 [`India_Voter_Fraud_Reform_Research.pdf`](India_Voter_Fraud_Reform_Research.pdf) (Complete PDF)<br>📝 [`India_Voter_Fraud_Reform_Research.docx`](India_Voter_Fraud_Reform_Research.docx) (MS Word) |
+| [`VoterFraud.md`](VoterFraud.md) | **Complete Research Document** — The comprehensive policy proposal including all technical frameworks, international case studies, and budget estimations. |
+| **Shareable Formats** | 📄 [`VoterFraud.pdf`](VoterFraud.pdf) (Complete PDF)<br>📝 [`VoterFraud.docx`](VoterFraud.docx) (MS Word) |
 
 ---
 
