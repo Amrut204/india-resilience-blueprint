@@ -35,8 +35,8 @@ This project analyses why India repeatedly faces shortages of essential resource
 **Project Files:**
 | File | Description |
 |------|-------------|
-| [`research.md`](research.md) | **Main Research** — Case studies, macroeconomic analysis, strategic response, international comparisons, policy framework, implementation roadmap, budget, KPIs, model laws |
-| [`research1.md`](research1.md) | **Companion Document** — Executive brief, India's success stories, citizen recommendations, risk matrix, glossary, commodity data tables |
+| [`Resource_Scarcity_India_Research_Main.md`](Resource_Scarcity_India_Research_Main.md) | **Main Research** — Case studies, macroeconomic analysis, strategic response, international comparisons, policy framework, implementation roadmap, budget, KPIs, model laws |
+| [`Resource_Scarcity_India_Research_Companion.md`](Resource_Scarcity_India_Research_Companion.md) | **Companion Document** — Executive brief, India's success stories, citizen recommendations, risk matrix, glossary, commodity data tables |
 | **Shareable Formats** | 📄 [`Resource_Scarcity_India_Research.pdf`](Resource_Scarcity_India_Research.pdf) (Complete PDF)<br>📝 [`Resource_Scarcity_India_Research.docx`](Resource_Scarcity_India_Research.docx) (MS Word) |
 
 ---

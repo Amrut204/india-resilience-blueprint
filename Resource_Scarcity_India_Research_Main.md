@@ -1,5 +1,5 @@
-"Resource Scarcity in India: A Study of Shortages Induced by Pandemic, War, and Climate Change"
-
+# Resource Scarcity in India: A Study of Shortages Induced by Pandemic, War, and Climate Change
+**Authors:** Dongre Amrut & Gadiwan Krutika
 1. Global Geopolitical & Conflict Situations
 •	Active Warfare: Direct destruction of infrastructure and production hubs in supplier nations (e.g., Russia-Ukraine impacts on wheat and barley).
 •	Maritime Chokepoints: Closure or high-risk status of narrow shipping lanes like the Strait of Hormuz or the Red Sea, which chokes oil and gas imports.

@@ -1,6 +1,6 @@
 # Resource Scarcity in India
 ## A Study of Shortages Induced by Pandemic, War, and Climate Change
-
+**Authors:** Dongre Amrut & Gadiwan Krutika
 **Companion Document: Supplementary Frameworks, Data Tables & Quick-Reference Guides**
 
 ---

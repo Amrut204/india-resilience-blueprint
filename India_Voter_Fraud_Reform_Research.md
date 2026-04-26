@@ -3,7 +3,7 @@
 **Document Type:** Open-Source Policy Research Proposal  
 **Version:** 1.0  
 **Date:** April 2026  
-**Author:** Independent Policy Research Group
+**Author:** Dongre Amrut
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0) — Free to share, adapt, and implement with attribution  
 **Intended Audience:** Election Commission of India, Ministry of Law & Justice, Parliamentary Standing Committees, State Chief Electoral Officers, Independent Researchers, Civil Society Organisations
 
